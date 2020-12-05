@@ -2,7 +2,7 @@
 
 Day 4: Calculator
 
-![Demo](./calc.gif)
+<img src="./calc.gif" width="450" height="450"/>
 
 ## Description
 Create a web based Calculator.
